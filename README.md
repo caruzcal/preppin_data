@@ -1,2 +1,2 @@
 # preppin_data
-A repository of all the challenges I do on Tableau Prep
+A repository of all the challenges I do on Tableau Prep and the solutions.
